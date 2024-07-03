@@ -9,3 +9,11 @@ This project serves as a practical example of integrating HTML for structure, CS
 
 
 
+![image](https://github.com/Prathyusha2218/PRODIGY_WD_03/assets/164630498/1408c3c5-126b-43e6-999f-62291a3404c5)
+
+
+
+
+
+
+<p>you can see the demo here &nbsp; <a href="https://prathyusha2218.github.io/PRODIGY_WD_03/">DEMO </a></p>
